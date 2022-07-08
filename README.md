@@ -7,3 +7,4 @@ Hola yo soy Neomar iglesias 👋
 - 😄 bbdd.
 - ⚡ Poo.
 -->
+ ![Snake animation](https://github.com/neoca/neoca/blob/output/github-contribution-grid-snake.svg)
